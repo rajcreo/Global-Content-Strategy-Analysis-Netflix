@@ -3,7 +3,7 @@ This project looks at Netflix data to learn about what shows and movies people l
 **Business Problem:**\
 Analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries.\
 \
-**Insights & Recommendations:**\
+**Insights & Recommendations:**
 1. Between 2016 and 2019, there was a significant rise in the total number of movies and TV shows. However, after 2019, there was a sharp decline in the production of both types of content. One possible explanation for this decline is the global pandemic caused by COVID-19. During this time, restrictions and challenges related to the pandemic may have limited the opportunities for creating new content, resulting in a decrease in production.
 2. From 2015 onwards, the United States has experienced a notable surge in the total number of TV shows compared to other leading countries.
 3. As time has passed, there has been an observable trend of movies having longer average durations compared to previous years. This indicates that movies nowadays tend to be longer in length. But, when it comes to TV shows, there has been a slight decrease in the average number of seasons. This suggests that TV shows are more inclined to have a lower number of seasons on average than they did in the past. This could be attributed to various factors, including the possibility that recent TV shows have failed to capture the attention of the audience, resulting in fewer seasons being produced.
